@@ -8,7 +8,7 @@ $age = 29;
 
 echo "Je m'appelle". $firstname.$lastname. ". J'ai ".$age." ans.";
 
-?>
+
 
 
 
