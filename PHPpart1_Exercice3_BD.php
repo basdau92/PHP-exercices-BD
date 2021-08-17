@@ -3,8 +3,14 @@
 <?php
 
 $km = 1;
-// $km = 3;
-// $km = 125;
+
+echo $km." km(s)";
+
+$km = 3;
+
+echo $km." km(s)";
+
+$km = 125;
 
 echo $km." km(s)";
 
