@@ -1,4 +1,4 @@
-<!-- Exercice 3 : variables km -->
+<!-- Part 1 Exercice 3 : variables km -->
 
 <?php
 

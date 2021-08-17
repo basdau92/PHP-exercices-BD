@@ -1,4 +1,4 @@
-<!-- Exercice 5 : variable answer -->
+<!-- Part 1 Exercice 5 : variable answer -->
 
 <?php
 

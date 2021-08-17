@@ -1,4 +1,4 @@
-<!-- Exercice 2 : Initialisation 3 variables -->
+<!-- Part 1 Exercice 2 : Initialisation 3 variables -->
 
 <?php
 

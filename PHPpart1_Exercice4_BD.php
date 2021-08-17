@@ -1,4 +1,4 @@
-<!-- Exercice 4 : variable name -->
+<!-- Part 1 Exercice 4 : variable name -->
 
 <?php
 
