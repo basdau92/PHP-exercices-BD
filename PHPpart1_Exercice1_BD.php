@@ -2,11 +2,12 @@
 
 <?php
 
-$object = "Bastien";
-$message = " a bien bossé.";
+$prenom = " Bastien ";
+$nom = "Daugenne";
 
-echo $object.$message;
+echo "Je m'appelle". $prenom.$nom;
 
+?>
 
 
 

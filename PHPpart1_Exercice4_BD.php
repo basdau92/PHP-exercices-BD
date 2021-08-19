@@ -6,7 +6,7 @@ $name = "Phyl";
 
 echo "Bonjour ".$name." ,comment vas-tu ?";
 
-
+?>
 
 
 

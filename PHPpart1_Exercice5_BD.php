@@ -8,7 +8,7 @@ if($answer == "yes"){
     echo "Vous avez répondu 'oui'.";
 } 
 
-
+?>
 
 
 
