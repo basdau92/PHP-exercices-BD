@@ -5,7 +5,7 @@
 // Création fonction
 function numImpCro()
 {
-    for ($nums = 0; $nums < 300; $nums++) {
+    for ($nums = 0; $nums < 301; $nums++) {
         if ($nums % 2 == 1) {
             echo $nums;
         }

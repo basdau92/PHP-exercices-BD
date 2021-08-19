@@ -3,7 +3,7 @@
 // Création fonction
 function numImpCro($mult3, $mult5)
 {
-    for ($nums = 1; $nums < 100; $nums++) {
+    for ($nums = 1; $nums < 101; $nums++) {
         if ($nums % $mult3 == 0 && $nums % $mult5 == 0) {
             echo "FizzBuzz"."</br>";
         } elseif ($nums % $mult3 == 0) {
