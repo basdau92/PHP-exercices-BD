@@ -1,0 +1,61 @@
+/* CSS EXERCICE 2 PARTIE 8 PHP - FORMS */
+
+/* Fieldsets */
+fieldset{
+    background-color: palegoldenrod;
+}
+
+/* Div champs */
+.div_fds{
+    margin: 10px 0px 20px 0px;
+    padding: 0px 0px 20px 0px;
+}
+
+/* Inputs */
+
+input{
+    margin-left: 5px;
+}
+
+.btn_submit{
+    background-color: royalblue;
+    border-radius: 12%;
+    color: orange;
+    font-size: 1.05rem;
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+/* Légende */
+.lgd_title{
+    background-color: royalblue;
+    color: orange;
+    font-size: 1.25rem;
+}
+
+/* Labels */
+.lbl_bleu {
+    color: blue;
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+/* Messages validation/erreur formulaire */
+.msg_vert {
+    background-color: green;
+    color: white;
+    display: none;
+    font-weight: bold;
+    font-size: 1rem;
+    width: 20%;
+}
+
+.msg_rouge {
+    background-color: red;
+    color:white;
+    display: none;
+    font-weight: bold;
+    font-size: 1rem;
+    width: 20%;
+}
